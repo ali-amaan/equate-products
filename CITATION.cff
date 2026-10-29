@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "Equate Instruments Product Catalogue"
+message: "If you use this dataset, please cite it as below."
+type: dataset
+authors:
+  - name: "Equate Instruments Oy"
+    website: "https://equateinstruments.com"
+date-released: "2026-10-30"
+url: "https://github.com/ali-amaan/equate-products"
+license: CC-BY-4.0
+keywords:
+  - dental instruments
+  - orthodontic instruments
+  - product catalogue
+  - open data
